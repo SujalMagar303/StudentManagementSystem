@@ -1,0 +1,9 @@
+Student Management System
+
+Student ID: 101
+Name: Rahul
+Course: Computer Engineering
+
+Student ID: 102
+Name: Amit
+Course: Computer Engineering
